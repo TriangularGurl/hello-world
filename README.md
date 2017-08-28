@@ -1,3 +1,6 @@
 # hello-world
-first repository
-i use this so i can make sensei ishima a real thing on discord
+
+Greetings!
+
+Tri here to make Sensei Ishima
+a real thing on Discord!
